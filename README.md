@@ -14,7 +14,7 @@ API's and Frameworks used:
 
 - Braintree [link](https://www.braintreepayments.com/ "Braintree"). Secure Payment
 - Firebase.js [link](https://firebase.google.com/ "Firebase"). Storage, geoqueries, OAuth
-- AWS CloudFront [link](https://www.aws.com/ "Braintree"). Video Storage, Encoding, Streaming
+- AWS CloudFront [link](https://aws.amazon.com/ "Braintree"). Video Storage, Encoding, Streaming
 
 
 ## Installation
