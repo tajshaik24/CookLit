@@ -23,7 +23,7 @@ Clone repo and open in Xcode.
 
 ```
 git clone https://github.com/furkhan324/CookLit.git
-#open Cooklit.xcworkspace from XCode
+#open Cooklit.xcworkspace from Xcode
 ```
 
 ## Contributors
